@@ -48,16 +48,16 @@ ul {
 
 li {
 		
-	font-size: 20px;
+	font-size: 14px;
 	display: inline;
 	font-family: Verdana;
-	margin-left: 15px;
 	padding: 5px;
 	background-color: #222222;
+	/*margin-left: 8px;
 	border: 3px;
 	border-radius: 14%;
 	border-color: #a4dba3;
-	border-style: solid;
+	border-style: solid;*/
 
 }
 
@@ -71,7 +71,7 @@ a:link {
 }
 
 li:hover {
-	background-color: white;
+	background-color: #555555;
 }
 
 footer > p {
